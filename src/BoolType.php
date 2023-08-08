@@ -58,7 +58,7 @@ class BoolType
                 // if $format is a string
                 if (is_string($format)) {
                     // switch on the lower-case $format
-                    switch (strtolower($format)) {
+                    switch (mb_strtolower($format)) {
 
                         case 'oo':
                         case 'o/o':
@@ -169,7 +169,7 @@ class BoolType
                     // the strings '0', 'no', 'off', and 'false' are considered false
                     // any other non-empty string is true
                     //
-                    switch (strtolower($var)) {
+                    switch (mb_strtolower($var)) {
 
                         case '1':
                         case 'on':
