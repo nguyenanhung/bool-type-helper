@@ -1,4 +1,7 @@
-[![Latest Stable Version](http://poser.pugx.org/nguyenanhung/bool-type-helper/v)](https://packagist.org/packages/nguyenanhung/bool-type-helper) [![Total Downloads](http://poser.pugx.org/nguyenanhung/bool-type-helper/downloads)](https://packagist.org/packages/nguyenanhung/bool-type-helper) [![Latest Unstable Version](http://poser.pugx.org/nguyenanhung/bool-type-helper/v/unstable)](https://packagist.org/packages/nguyenanhung/bool-type-helper) [![License](http://poser.pugx.org/nguyenanhung/bool-type-helper/license)](https://packagist.org/packages/nguyenanhung/bool-type-helper) [![PHP Version Require](http://poser.pugx.org/nguyenanhung/bool-type-helper/require/php)](https://packagist.org/packages/nguyenanhung/bool-type-helper)
+[![Latest Stable Version](https://img.shields.io/packagist/v/nguyenanhung/bool-type-helper.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/bool-type-helper)
+[![Total Downloads](https://img.shields.io/packagist/dt/nguyenanhung/bool-type-helper.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/bool-type-helper)
+[![License](https://img.shields.io/packagist/l/nguyenanhung/bool-type-helper.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/bool-type-helper)
+[![PHP Version Require](https://img.shields.io/packagist/dependency-v/nguyenanhung/bool-type-helper/php)](https://packagist.org/packages/nguyenanhung/bool-type-helper)
 
 # Bool Type Helper
 
